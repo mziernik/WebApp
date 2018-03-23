@@ -1,5 +1,6 @@
 package core;
 
+import core.server.WebSocketServer;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
@@ -11,6 +12,7 @@ public class Main extends Application {
     public final WebKit webKit = new WebKit("webapp:///index.html", bridge);
 
     public static void main(String[] args) {
+        WebSocketServer.run();
         launch(args);
     }
 

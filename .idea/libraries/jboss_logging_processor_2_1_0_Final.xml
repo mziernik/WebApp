@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jboss-logging-processor-2.1.0.Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logging-processor-2.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jboss-logmanager-2.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdeparser-2.0.2.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/undertow-core-2.0.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/undertow-servlet-2.0.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/undertow-websockets-jsr-2.0.3.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-api-3.3.8.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xnio-nio-3.3.8.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
